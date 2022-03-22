@@ -1,4 +1,4 @@
-# Gifs cant be posted on git, and this wasn't made for git's markdown so it might looks strange. Checkout https://dev.to/murilomsq/cladogenesis-in-an-engine-a-brief-study-of-how-species-are-born-4n14 to see it working
+# Gifs cant be posted on git, and this wasn't made for git's markdown so it might look4s strange. Checkout https://dev.to/murilomsq/cladogenesis-in-an-engine-a-brief-study-of-how-species-are-born-4n14 to see it working
 
 
 It's common to see evolution being presented as a biological tied concept, as it was its birthplace and all its mechanisms are really well described in biology, but in the last centuries we realised that evolution is an algorithm, and that means it is indifferent on what it's subject is. It will act on whatever set has some required atributes: 
